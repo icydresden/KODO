@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/fifi-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodo-basic-simulations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodo-python" vcs="Git" />
+  </component>
+</project>
